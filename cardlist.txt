@@ -1,75 +1,120 @@
 AEther Vial 
 Aetherworks Marvel
+Ali from Cairo 
 Amulet of Quoz 
 Ancestral Recall
+Ancestral Vision 
 Ancient Den
+Ancient Tomb 
 Arcbound Ravager 
 Balance
 Bazaar of Baghdad
+Berserk 
 Biorhythm
 Birthing Pod
+Bitterblossom 
 Black Lotus
+Black Vise 
 Blazing Shoal
 Bloodbraid Elf
 Braids, Cabal Minion
+Braingeyser 
 Brainstorm
+Burning Wish 
+Candelabra of Tawnos 
 Chalice of the Void
 Channel
 Chaos Orb
 Chrome Mox
 Cloudpost
 Coalition Victory
+Copy Artifact 
+Cranial Plating
+Crop Rotation 
+Crucible of Worlds
 Cursed Scroll 
 Dark Depths
+Dark Ritual 
 Darksteel Citadel 
 Deathrite Shaman
+Death Wish
+Demonic Attorney
 Demonic Consultation
 Demonic Tutor
 Dig Through Time
 Disciple of the Vault 
+Divine Intervention 
+Doomsday 
 Dread Return
+Dream Halls 
 Earthcraft
 Emrakul, the Aeons Torn
+Emrakul, the Promised End 
+Enlightened Tutor 
+Entomb 
 Erayo, Soratami Ascendant
 Eye of Ugin
+Fact or Fiction 
 Falling Star
 Fastbond
+Feldon's Cane 
 Felidar Guardian
 Flash
+Fluctuator 
+Fork 
 Frantic Search
 Gaea's Cradle 
 Gifts Ungiven
 Gitaxian Probe
 Glimpse of Nature
+Goblin Lackey 
 Goblin Recruiter
+Golden Wish
 Golgari Grave-Troll
 Great Furnace
 Green Sun's Zenith
+Grim Monolith 
+Grindstone
 Griselbrand
 Gush
+Heartless Hidetsugu
 Hermit Druid
+Hurkyl's Recall 
 Hypergenesis
+Illusionary Mask 
 Imperial Seal
 Intangible Virtue 
+Ivory Tower 
 Jace, the Mind Sculptor
+Jeweled Bird 
 Karakas
+Kird Ape 
+Kokusho the Evening Star
+Kokusho, the Evening Star
+Land Tax 
 Leovold, Emissary of Trest
 Library of Alexandria
 Limited Resources
-Lin Sivvi, Defiant Hero 
 Lingering Souls 
+Lin Sivvi, Defiant Hero 
 Lion's Eye Diamond
+Living Wish
 Lodestone Golem
 Lotus Petal
 Mana Crypt
 Mana Vault
+Maze of Ith 
 Memory Jar
 Mental Misstep
 Merchant Scroll
-Mind Twist
+Metalworker 
+Mind Over Matter 
 Mind's Desire
+Mind Twist
+Mirror Universe 
 Mishra’s Workshop
 Monastery Mentor
+Mox Diamond 
 Mox Emerald
 Mox Jet
 Mox Pearl
@@ -77,15 +122,25 @@ Mox Ruby
 Mox Sapphire
 Mystical Tutor
 Necropotence
+Niv-Mizzet the Firemind
 Oath of Druids
+Orcish Oriflamme
 Painter's Servant
 Panoptic Mirror
+Personal Tutor 
 Ponder
 Preordain
 Primeval Titan
 Prophet of Kruphix
+Protean Hulk
 Punishing Fire
+Rebirth
+Recall 
 Recurring Nightmare
+Reflector Mage 
+Regrowth
+Replenish
+Riftsweeper
 Rishadan Port 
 Rite of Flame
 Rofellos, Llanowar Emissary
@@ -100,19 +155,25 @@ Smuggler's Copter
 Sol Ring
 Splinter Twin
 Squandered Resources 
+Staff of Domination
 Stoneforge Mystic
 Strip Mine
+Stroke of Genius
 Summer Bloom
 Sundering Titan
 Survival of the Fittest
 Sway of the Stars
+Sword of the Ages
+Sword of the Meek
 Sylvan Primordial
+Test of Endurance
 Thawing Glaciers 
+Thirst for Knowledge
 Thorn of Amethyst
 Time Spiral 
+Timetwister
 Time Vault
 Time Walk
-Timetwister
 Tinker
 Tolarian Academy
 Trade Secrets
@@ -120,67 +181,17 @@ Treasure Cruise
 Tree of Tales
 Trinisphere
 Umezawa's Jitte
+Underworld Dreams
 Upheaval
+Valakut, the Molten Pinnacle
 Vampiric Tutor
 Vault of Whispers
 Voltaic Key 
 Wheel of Fortune
+Wild Nacatl
 Windfall
 Worldfire
+Worldgorger Dragon
 Yawgmoth's Bargain
 Yawgmoth's Will
 Zuran Orb 
-Ali from Cairo 
-Ancestral Vision 
-Ancient Tomb 
-Berserk 
-Bitterblossom 
-Black Vise 
-Braingeyser 
-Burning Wish 
-Candelabra of Tawnos 
-Copy Artifact 
-Crop Rotation 
-Dark Ritual 
-Divine Intervention 
-Doomsday 
-Dream Halls 
-Enlightened Tutor 
-Entomb 
-Emrakul, the Promised End 
-Fact or Fiction 
-Feldon's Cane 
-Fluctuator 
-Fork 
-Goblin Lackey 
-Grim Monolith 
-Hurkyl's Recall 
-Illusionary Mask 
-Ivory Tower 
-Jeweled Bird 
-Kird Ape 
-Land Tax 
-Maze of Ith 
-Metalworker 
-Mind Over Matter 
-Mirror Universe 
-Mox Diamond 
-Personal Tutor 
-Rebirth 
-Recall 
-Reflector Mage 
-Regrowth 
-Replenish
-Stroke of Genius
-Sword of the Ages
-Sword of the Meek
-Thirst for Knowledge
-Underworld Dreams
-Valakut, the Molten Pinnacle
-Wild Nacatl
-Worldgorger Dragon
-Kokusho, the Evening Star
-Crucible of Worlds
-Protean Hulk
-Grindstone
-Staff of Domination
