@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<title>Cards Spike Tournament Grinder can Tutor for</title>
+		<link rel="stylesheet" type="text/css" href="index.css">
+	</head>
+
+	<body>
+		<h1 id="header">Cards <a href="https://scryfall.com/card/ust/69" target="_blank">Spike
+				Tournament Grinder</a> can Tutor for</h1>
+		<p id="header-text">Created by <a href="http://unreturnable.net" target="_blank">Isabel
+			Jenkins</a> code available <a href="https://github.com/unreturnable/spike-cards" target="_blank">here</a></p>
+
+		<div id="colors">
+			<a onclick="changeColour('white')">
+				<img id="white" class="color" src="res/white.png"/>
+			</a>
+			<a onclick="changeColour('blue')">
+				<img id="blue" class="color" src="res/blue.png"/>
+			</a>
+			<a onclick="changeColour('black')">
+				<img id="black" class="color" src="res/black.png"/>
+			</a>
+			<a onclick="changeColour('red')">
+				<img id="red" class="color" src="res/red.png"/>
+			</a>
+			<a onclick="changeColour('green')">
+				<img id="green" class="color" src="res/green.png"/>
+			</a>
+			<a onclick="changeColour('colorless')">
+				<img id="colorless" class="color" src="res/colorless.png"/>
+			</a>
+		</div>
+
+		<div id="cards"></div>
+		<div id="overlay" onclick="document.getElementById('overlay').style.display='none'">
+			<img id="overlay-card"/>
+		</div>
+	</body>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+	<script src="cards.js"></script>
+	<script src="index.js"></script>
+</html>

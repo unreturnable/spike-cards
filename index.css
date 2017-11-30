@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+body {
+	font-family: 'Noto Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+	background: #00838F;
+}
+
+#header {
+	font-size: 48pt;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+}
+
+#header-text {
+	font-size: 14pt;
+	text-align: center;
+	margin-top: 0px;
+}
+
+#colors {
+	text-align: center;
+	margin: 10px;
+}
+
+.color {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	padding: 10px;
+	margin: 5px;
+	background: #FFFF4C;
+}
+
+#cards {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.card {
+	height: 200px;
+	margin: 5px;
+}
+
+#overlay {
+	position: fixed;
+	display: none;
+	width: 100%;
+	height: 100%;
+	top: 0; 
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.5);
+	z-index: 2;
+}
+
+#overlay-card {
+	display: block;
+	margin: auto;
+	width: auto;
+	margin-top: 2.5vh;
+	margin-bottom: 2.5vh;
+	height: 95vh;
+}
